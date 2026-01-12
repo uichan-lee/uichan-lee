@@ -11,11 +11,7 @@
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, Java, JavaScript, R, C++, Go, Bash
 * **AI & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, PyTorch
-* **Infrastructure:** Docker, FastAPI, PostgreSQL, AWS, GCP
-
-### 📊 Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=radical)
+* **Infrastructure:** Docker, FastAPI, PostgreSQL, AWS
 
 ---
 📫 **How to reach me:** [rickylee7185@gmail.com](mailto:rickylee7185@gmail.com)
