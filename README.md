@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Uichan Lee 👋
 
-<!--
-**uichan-lee/uichan-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* **UC Berkeley** | B.A. Statistics | GPA: 4.0 / 4.0
+* **Pasadena City College** | B.A. Statistics | GPA: 4.0 / 4.0
 
-Here are some ideas to get you started:
+### 🚀 Featured Project: Agent-to-Agent (A2A) Framework
+* Developing a **Distributed Agent Architecture** using **LangGraph** and **FastAPI**.
+* Implementing standardized protocols (**JSON-RPC 2.0**) for autonomous agent collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** Python, SQL, Java, JavaScript, R, C++, Go, Bash
+* **AI & Data:** Scikit-learn, Pandas, NumPy, Matplotlib, PyTorch
+* **Infrastructure:** Docker, FastAPI, PostgreSQL, AWS, GCP
+
+### 📊 Stats & Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=radical)
+
+---
+📫 **How to reach me:** [rickylee7185@gmail.com](mailto:rickylee7185@gmail.com)
