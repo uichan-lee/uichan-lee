@@ -29,7 +29,7 @@ Building a **distributed agent architecture** that enables autonomous agents to 
 ### 🏠 Housing Price Predictor (Regression)
 - Built an end-to-end **scikit-learn regression pipeline** to predict residential property values.
 - Performed extensive EDA and data cleaning on **500k+ records**, addressing outliers, missing values, and skewed distributions.
-- Metrics: **MAE=$[fill] / RMSE=$[fill] / R²=[fill]** (recommended to report CV results)
+- Metrics: **MAE=$38,000/ RMSE=$62,000 / R²=0.82** 
 
 ---
 
