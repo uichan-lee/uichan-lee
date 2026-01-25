@@ -26,7 +26,7 @@
 - **Full-Stack Implementation:** Deployed a **Dockerized FastAPI** backend and a **React (TypeScript)** frontend for real-time interaction.
 - **Tech:** `LangGraph` `FastAPI` `React` `Docker` `Pydantic`
 
-### 🔗 Agent-to-Agent (A2A) Communication Framework
+### 🔗 [Agent-to-Agent (A2A) Communication Framework](https://github.com/uichan-lee/agent-to-agent)
 > *A distributed protocol enabling autonomous agents to discover and collaborate.*
 
 - **Hybrid Ecosystem:** Integrated **Google ADK** and **LangGraph** agents to work together in a single ecosystem via a standardized protocol.
@@ -46,7 +46,7 @@
 
 ## 🧪 Research & Experience
 
-### 🏛️ UC Berkeley Data Discovery × Ten Strands (Student Researcher)
+### 🏛️ [UC Berkeley Data Discovery × Ten Strands (Student Researcher)](https://github.com/uichan-lee/dd-staffing)
 *Sep 2025 – Dec 2025*
 - **Advanced Modeling:** Quantified the impact of staffing on environmental literacy using **Average Marginal Effects (AME)** analysis in Python.
 - **Key Insight:** Discovered that Whole-System Coordinators increase the probability of superior performance by **59.5 percentage points**.
@@ -59,5 +59,3 @@
 - ✉️ **Email:** [rickylee7185@gmail.com](mailto:rickylee7185@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/uichan-lee](https://www.linkedin.com/in/uichan-lee-70127537b/)
 - 🐙 **GitHub:** [github.com/uichan-lee](https://github.com/uichan-lee)
-
-![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickylee7185&show_icons=true&theme=minimal)
