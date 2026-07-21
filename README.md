@@ -1,6 +1,6 @@
 # Hi there, I'm Uichan (Ricky) Lee 👋
 
-🎓 **Statistics @ UC Berkeley** (Expected May 2027) · GPA: 4.00 · Dean's List, College of CDSS (2025)
+🎓 **Data Science @ UC Berkeley** (Expected May 2027) · Dean's List, College of CDSS (2025)
 
 🚀 **AI Engineer & Data Scientist** — I focus on statistical modeling, machine learning, and research. My work ranges from causal inference and regression on real-world data (policy impact, prediction) to building **Agentic Workflows**, **Microservices Architectures**, and **Multi-Agent AI Applications**.
 
